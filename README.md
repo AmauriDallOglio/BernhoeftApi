@@ -46,3 +46,15 @@ PRODUTO
 
 
 
+
+------------------------------------------------------
+
+Como executar o projeto:
+
+
+[BernhoeftApi.pdf](https://github.com/AmauriDallOglio/BernhoeftApi/files/11263523/BernhoeftApi.pdf)
+
+
+
+------------------------------------------------------
+
